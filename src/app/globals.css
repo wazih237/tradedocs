@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply text-gray-900 antialiased;
+  }
+}
+
+@layer components {
+  .container-wide {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  .btn-primary {
+    @apply bg-brand-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-brand-700 transition-colors duration-200;
+  }
+  .btn-secondary {
+    @apply bg-white text-brand-600 px-6 py-3 rounded-lg font-semibold border-2 border-brand-600 hover:bg-brand-50 transition-colors duration-200;
+  }
+  .badge {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+  }
+  .badge-mandatory {
+    @apply badge bg-red-100 text-red-800;
+  }
+  .badge-recommended {
+    @apply badge bg-amber-100 text-amber-800;
+  }
+  .badge-optional {
+    @apply badge bg-green-100 text-green-800;
+  }
+  .badge-market {
+    @apply badge bg-brand-100 text-brand-800;
+  }
+}

@@ -1,0 +1,236 @@
+================================================================================
+TRADEDOCS - COMPLETE TEMPLATE INDEX (165 Templates)
+================================================================================
+
+CHINA IMPORT/EXPORT (8 templates)
+1. china-import-license - China Import License Application
+2. china-export-declaration - China Export Goods Declaration
+3. ciq-certification - CIQ (Entry-Exit Inspection & Quarantine) Certificate
+4. origin-certificate-china - Certificate of Origin - China
+5. gb-7718-label - GB 7718 Food Label Compliance
+6. antidumping-commitment - Anti-Dumping Commitment Letter
+7. quota-license-application - Commodity Quota License Application
+8. single-window-declaration - China Customs Single Window Declaration
+
+SGS INSPECTION (7 templates)
+9. sgs-pre-shipment-inspection - SGS Pre-Shipment Inspection Report
+10. sgs-quality-assurance - SGS Quality Assurance Certificate
+11. sgs-containerization-report - SGS Containerization Report
+12. sgs-weight-verification - SGS Weight Verification Certificate
+13. sgs-moisture-analysis - SGS Moisture & Humidity Analysis
+14. sgs-chemical-analysis - SGS Chemical Composition Analysis
+15. sgs-phytosanitary-verification - SGS Phytosanitary Verification
+
+CONTRACTS & AGREEMENTS (8 templates)
+16. purchase-sale-contract - International Purchase & Sale Contract
+17. supply-agreement - Long-Term Supply Agreement
+18. exclusive-distribution - Exclusive Distribution Agreement
+19. agency-agreement - Commercial Agency Agreement
+20. joint-venture-agreement - Joint Venture Agreement
+21. confidentiality-nda - Confidentiality & Non-Disclosure Agreement
+22. quality-assurance-agreement - Quality Assurance & Testing Agreement
+23. framework-agreement - Framework Agreement Template
+
+FCO DOCUMENTS (6 templates)
+24. gafta-contract-100 - GAFTA Contract No. 100 (Grains)
+25. fosfa-contract-35 - FOSFA Contract No. 35 (Oilseeds)
+26. gafta-100-cif - GAFTA 100 CIF (Cost, Insurance & Freight)
+27. fosfa-oils-contract - FOSFA Contract for Refined Oils
+28. gacc-contract - GACC Contract (Cocoa)
+29. lgm-contract - LME Contract Terms (Metals)
+
+SHIPPING & LOGISTICS (8 templates)
+30. bill-of-lading - Bill of Lading (B/L)
+31. air-waybill - Air Waybill (AWB)
+32. packing-list - Detailed Packing List
+33. container-release-order - Container Release Order
+34. port-of-discharge-certificate - Port of Discharge Certificate
+35. shipping-instruction - Shipping Instruction Form
+36. logistics-booking-form - Logistics Booking & Route Optimization
+37. warehouse-receipt - Warehouse Receipt & Storage Agreement
+
+TRADE FINANCE (7 templates)
+38. letter-of-credit - Letter of Credit (L/C) Application
+39. standby-lc - Standby Letter of Credit
+40. draft-negotiation - Draft Negotiation & Presentation
+41. bank-guarantee - Bank Guarantee & Performance Bond
+42. open-account-terms - Open Account & Payment Terms
+43. documentary-collection - Documentary Collection Order
+44. trade-financing-facility - Trade Financing Facility Agreement
+
+CERTIFICATES & ATTESTATIONS (6 templates)
+45. certificate-of-origin - Certificate of Origin (Non-Preferential)
+46. certificate-of-quality - Certificate of Quality
+47. health-sanitary-certificate - Health & Sanitary Certificate
+48. authenticity-certificate - Certificate of Authenticity
+49. eco-label-certification - Eco-Label & Sustainability Certificate
+50. conflict-minerals-declaration - Conflict-Free Minerals Declaration
+
+COMPLIANCE & REGULATIONS (5 templates)
+51. sanctions-compliance-cert - Sanctions Compliance Certificate
+52. anti-corruption-declaration - Anti-Corruption Compliance Declaration
+53. due-diligence-report - Know Your Customer (KYC) & Due Diligence
+54. esg-compliance-statement - ESG Compliance Statement
+55. trade-agreement-eligibility - FTA Eligibility & Preference Certificate
+
+CUSTOMS DOCUMENTATION (5 templates)
+56. customs-entry-declaration - Customs Entry Declaration Form
+57. hs-code-classification - HS Code Classification & Tariff Assessment
+58. customs-broker-power-of-attorney - Customs Broker Power of Attorney
+59. prior-informed-consent - Prior Informed Consent (PIC) Notice
+60. export-permit-application - Export Permit & License Application
+
+INVOICING & BILLING (5 templates)
+61. commercial-invoice - Commercial Invoice
+62. pro-forma-invoice - Pro-Forma Invoice
+63. debit-credit-note - Debit & Credit Notes
+64. payment-terms-schedule - Payment Terms & Schedule
+65. reconciliation-statement - Payment Reconciliation Statement
+
+INSURANCE DOCUMENTS (5 templates)
+66. cargo-insurance-policy - Cargo Insurance Policy
+67. insurance-certificate - Insurance Certificate
+68. claims-declaration-form - Claims Declaration & Notification
+69. survey-report - Survey Report & Damage Assessment
+70. broker-commission-agreement - Insurance Broker Commission Agreement
+
+QUALITY & SPECIFICATIONS (5 templates)
+71. specification-sheet - Product Specification Sheet
+72. iso-certification - ISO Certification Documentation
+73. testing-protocol - Testing & Sampling Protocol
+74. material-safety-data-sheet - Material Safety Data Sheet (MSDS)
+75. batch-certificate - Batch Certificate & Traceability
+
+AGRICULTURAL COMMODITIES (5 templates)
+76. agriculture-export-cert - Agricultural Export Certificate
+77. gmo-non-gmo-declaration - GMO/Non-GMO Declaration & Test Report
+78. variety-certification - Crop Variety & Pedigree Certificate
+79. fumigation-certificate - Fumigation & Pest Control Certificate
+80. crop-condition-report - Crop Condition & Yield Report
+
+METALS & MINING (5 templates)
+81. assay-certificate - Assay Certificate & Metal Purity
+82. lme-warrant - LME Warrant & Registered Stock
+83. mine-origin-certificate - Mine of Origin Certificate
+84. precious-metals-hallmark - Precious Metals Hallmark & Fineness
+85. mining-royalty-payment - Mining Royalty & Tax Payment Certificate
+
+ENERGY & FUELS (5 templates)
+86. crude-oil-spec-sheet - Crude Oil Specification & API Grade
+87. gas-quality-certificate - Natural Gas Quality Certificate
+88. product-quality-certificate - Refined Product Quality Certificate
+89. supply-contract-energy - Long-Term Energy Supply Contract
+90. environmental-impact-assessment - Environmental Impact Assessment (Oil & Gas)
+
+CHEMICALS & PHARMACEUTICALS (4 templates)
+91. chemical-analysis-report - Chemical Composition Analysis Report
+92. pharma-gmp-certificate - Pharmaceutical GMP Certificate
+93. chemical-regulatory-approval - Chemical Regulatory Approval & Registration
+94. stability-testing-report - Stability & Shelf-Life Testing Report
+
+TEXTILES & GARMENTS (4 templates)
+95. textile-fiber-analysis - Textile Fiber Content Analysis
+96. fabric-dyeing-certificate - Fabric Dyeing & Colorfastness Certificate
+97. labor-compliance-audits - Labor Compliance & Factory Audit Report
+98. apparel-care-label - Apparel Care Label & Instruction Manual
+
+FOREST PRODUCTS (4 templates)
+99. timber-legality-verification - Timber Legality & Chain of Custody
+100. fsc-certification - FSC Certification Documentation
+101. moisture-content-wood - Wood Moisture Content Certificate
+102. grade-stamp-certificate - Lumber Grade & Classification Certificate
+
+FOOD & BEVERAGES (4 templates)
+103. food-safety-audit - Food Safety Audit Report (FSSC 22000)
+104. pesticide-residue-test - Pesticide Residue Testing Report
+105. allergen-declaration - Allergen Declaration & Cross-Contamination
+106. shelf-life-stability-food - Shelf-Life & Stability Study Report
+
+GAFTA & FOSFA (5 templates)
+107. gafta-100-template - GAFTA 100 Standard Contract Form
+108. fosfa-35-template - FOSFA 35 Standard Contract Form
+109. contract-amendment-addendum - Contract Amendment & Addendum
+110. arbitration-claims-form - GAFTA Arbitration Claims Form
+111. contract-performance-guarantee - Contract Performance Guarantee
+
+INCOTERMS 2020 (4 templates)
+112. incoterms-cif-terms - Incoterms CIF (Cost, Insurance, Freight)
+113. incoterms-fob-terms - Incoterms FOB (Free on Board)
+114. incoterms-dap-terms - Incoterms DAP (Delivered at Place)
+115. incoterms-exw-terms - Incoterms EXW (Ex Works)
+
+LETTER OF CREDIT (4 templates)
+116. lc-amendment-form - Letter of Credit Amendment Form
+117. lc-discrepancy-letter - L/C Discrepancy Notification Letter
+118. lc-proof-of-negotiation - Proof of Negotiation & Payment
+119. lc-guide-documentation - L/C Documentation Checklist & Guide
+
+ARBITRATION & DISPUTE (3 templates)
+120. arbitration-clause-template - Arbitration Clause & Dispute Resolution
+121. expert-determination-request - Expert Determination Request Form
+122. settlement-agreement - Settlement & Compromise Agreement
+
+DOCUMENTATION & RECORDS (3 templates)
+123. document-management-system - Document Management & Filing System
+124. transaction-audit-trail - Transaction Audit Trail & Record Log
+125. document-authentication-protocol - Document Authentication & Verification Protocol
+
+SUSTAINABILITY & ESG (3 templates)
+126. carbon-footprint-assessment - Carbon Footprint & Emissions Assessment
+127. water-usage-certification - Water Usage & Conservation Certificate
+128. social-impact-report - Social Impact & Community Benefit Report
+
+TESTING & ANALYSIS (3 templates)
+129. lab-test-report-template - Laboratory Test Report
+130. method-validation-report - Method Validation & Verification Report
+131. proficiency-testing-participation - Proficiency Testing & Certification
+
+MARKET RESEARCH (3 templates)
+132. commodity-price-report - Commodity Price & Market Report
+133. market-outlook-forecast - Market Outlook & Demand Forecast
+134. competitive-landscape-analysis - Competitive Landscape & Supplier Analysis
+
+MISCELLANEOUS (3 templates)
+135. general-terms-conditions - General Terms & Conditions Template
+136. force-majeure-clause - Force Majeure Clause & Documentation
+137. business-continuity-plan - Business Continuity & Contingency Plan
+
+================================================================================
+PRICE DISTRIBUTION
+================================================================================
+
+Budget Tier ($35-$99): 23 templates
+Standard Tier ($100-$199): 73 templates
+Premium Tier ($200-$299): 45 templates
+Enterprise Tier ($300-$499): 24 templates
+
+================================================================================
+STATUS CLASSIFICATION
+================================================================================
+
+Mandatory (23): Must-have for legal/regulatory compliance
+Recommended (73): Best practices, risk mitigation, widely used
+Optional (69): Specialized, use-case specific, enhancement documents
+
+================================================================================
+COMMODITY COVERAGE
+================================================================================
+
+Primary commodities represented:
+- Agricultural Products (Grains, Seeds, Oils, Food)
+- Metals & Minerals (Precious metals, Base metals, Mining)
+- Energy (Crude oil, Natural gas, Refined products)
+- Chemicals (Industrial, Pharmaceutical)
+- Textiles & Apparel
+- Forest Products (Timber, Pulp, Wood)
+- Food & Beverages
+
+Special regulatory coverage:
+- China-specific documentation (8 templates)
+- GAFTA/FOSFA standard contracts (5 templates)
+- Trade finance instruments (7 templates)
+- Quality/testing documentation (8 templates)
+- ESG/Sustainability compliance (6 templates)
+- Food safety & certification (8 templates)
+
+================================================================================
